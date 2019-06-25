@@ -16,7 +16,7 @@ export enum SearchType {
 })
 export class MoviesService {
   url = 'http://www.omdbapi.com/';
-  apiKey = '5a6a49a0'; // <-- Enter your own key here!
+  apiKey = ''; // <-- Enter your own key here!
 
   /**
    * Constructor of the Service with Dependency Injection
