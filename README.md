@@ -1,1 +1,1 @@
-# Simple Mobile Project to Find Movies in OMDb API 
+# Simple Mobile Project to Find Movies in OMDb API
